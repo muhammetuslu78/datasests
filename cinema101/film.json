@@ -885,7 +885,7 @@
     "poster": "https://raw.githubusercontent.com/muhammetuslu78/datasets/master/cinema101/poster/the-shining.jpg"
   },
 {
-    "name": "WALL�E",
+    "name": "WALL-E",
     "director": "Andrew Stanton",
     "genre": "Animation, Adventure, Family ",
     "country": "USA",
@@ -897,7 +897,7 @@
     "oscar": "yes",
     "posterbg": "https://raw.githubusercontent.com/muhammetuslu78/datasets/master/cinema101/posterbg/wall-e.jpg",	
     "review": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
-    "poster": "https://raw.githubusercontent.com/uslu78/myfilms-dataset/master/wall-e.jpg"
+    "poster": "https://raw.githubusercontent.com/muhammetuslu78/datasets/master/cinema101/poster/wall-e.jpg"
   },
 {
     "name": "Det sjunde inseglet ",
@@ -1512,6 +1512,6 @@
     "oscar": "yes",
     "posterbg": "https://raw.githubusercontent.com/muhammetuslu78/datasets/master/cinema101/posterbg/no-country-for-men.jpg",	
     "review": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
-    "poster": "https://github.com/muhammetuslu78/datasets/blob/master/cinema101/poster/no-country-for-old-man.jpg"
+    "poster": "https://raw.githubusercontent.com/muhammetuslu78/datasets/master/cinema101/poster/no-country-for-old-man.jpg"
   }
 ]
